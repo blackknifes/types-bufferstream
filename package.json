@@ -1,0 +1,23 @@
+{
+  "name": "@types/bufferstreams",
+  "version": "2.0.1",
+  "description": "Typescripts define of bufferstreams",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "buffer",
+    "streaming",
+    "stream",
+    "async",
+    "abstract",
+    "types"
+  ],
+  "author": "blackknife",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.0.0",
+    "bufferstreams": "2.0.1"
+  }
+}
